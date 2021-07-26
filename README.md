@@ -1,11 +1,11 @@
 # How to run this code on your Raspberry Pi:
 
 ## Prerequisites: 
-    1. SSH connection to your Raspberry Pi(e.g. PuTTy)
-    2. Install Git on your Raspberry Pi
+    1. SSH connection to your Raspberry Pi (Using the Secure Shell App)
+    2. Install Git on your Raspberry Pi (Should already be installed)
 
 ## How to execute code:
-    1. `git clone https://github.com/priya390/Raspberry-Pi-LED-Blinking-in-Python`
+    1. `git clone https://github.com/stcline/Raspberry-Pi-LED-Blinking-in-Python`
     2. `cd Raspberry-Pi-LED-Blinking-in-Python`
     3. `sudo python main.py`
 
