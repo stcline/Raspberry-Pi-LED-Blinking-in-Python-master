@@ -14,4 +14,4 @@
 
 ## How to change GPIO pin:
     Change pin number in this line as per your requirements.
-    `led = 5 # GPIO pin number is 5 and name is GPIO3`
+    `led = 12 # GPIO pin number is 12 and name is GPIO18`
