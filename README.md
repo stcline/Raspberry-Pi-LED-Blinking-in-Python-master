@@ -1,5 +1,8 @@
 # How to run this code on your Raspberry Pi:
 
+## Set up the circuit:
+![The Python Demo Circuit](https://github.com/WHS-Robotics-Test-Org/Robotics_Engineering_Book/blob/master/Images/Python_demo.jpg)
+
 ## Prerequisites: 
     1. SSH connection to your Raspberry Pi (Using the Secure Shell App)
     2. Install Git on your Raspberry Pi (Should already be installed)
