@@ -13,9 +13,9 @@ Throughout the year, we will be writing Python scripts to control external hardw
     
 ## How to execute code (from the terminal window in the SSH application):
 
-Type the commands below into your terminal window.  Replace [usrname] with your username on GitHub:
+Type the commands below into your terminal window.  Replace [username] with your username on GitHub:
 
-    git clone https://github.com/[username]/Raspberry-Pi-LED-Blinking-in-Python
+    git clone https://github.com/WHS-Robotics-Engineering-2021-22/blink-led-python-[username]
     
 Change the working directory to the now one that you just cloned.
 
